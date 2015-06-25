@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\exploded-aar\VLC\wheelView\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="ebd4eb4e10eef93787971f1faaae611738a0ffc8">
+        <dex dex="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\pre-dexed\debug\classes-062dd5eb3c4e5209e4a587b2731d13a6d19d1d7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\exploded-aar\VLC\slidingMenu\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c7fb17a5f96c88974c1c53e1703835b35a654101">
+        <dex dex="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\pre-dexed\debug\classes-28f1974451b810ccf7136f0e710f97b317f824e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\pre-dexed\debug\classes-3e5725329b1aa3c57d34a7dbba18e306c558e1b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\liangxing\android-sdks\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\liangxing\AndroidStudioProjects\VLC\vLC\build\intermediates\pre-dexed\debug\support-v4-19.1.0-6675f0a45b8842f7fd1b23bb1064539048d822ed.jar" />
+    </item>
+
+</items>
